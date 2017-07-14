@@ -2,12 +2,12 @@ body {
     background-color: rgba(61, 159, 230, 0.88);
     font-family: ArcadeClassic, Arial, sans-serif;
     font-size: 50px;
-    letter-spacing: 10px;
 }
 
 #title {
     text-align: center;
     color: #fff;
+    letter-spacing: 10px;
     
 }
 
